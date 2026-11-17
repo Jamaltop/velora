@@ -609,7 +609,7 @@ export default function App() {
             <p>
               Designed &amp; Developed by{' '}
               <a
-                href="https://jamalaliyev.dev"
+                href="https://portfolio-new-eta-jet.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline underline-offset-4 hover:text-[#9A3412] dark:hover:text-[#EA580C] transition font-medium"
